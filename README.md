@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najmul-huda70&label=Profile%20views&color=0e75b6&style=flat" alt="najmul-huda70" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=najmul-huda70" alt="najmul-huda70" /></a> </p>
-
 - 🔭 I’m currently working on [Hostel Meal Management System](http://github.com/Najmul-Huda70/Project-/tree/main/CPP%20Project/Hostel%20Meal%20Management%20System)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Najmul-Huda70/Project-/tree/main](https://github.com/Najmul-Huda70/Project-/tree/main)
