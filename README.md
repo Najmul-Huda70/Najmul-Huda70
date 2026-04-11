@@ -19,5 +19,36 @@
 
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najmul-huda70&" alt="najmul-huda70" /></p>
+<table width="100%">
+  <thead>
+    <tr bgcolor="#161b22">
+      <th width="15%" style="padding: 10px; text-align: center;">Date</th>
+      <th width="52%" style="padding: 10px; text-align: center;">Project Details</th>
+      <th width="25%" style="padding: 10px; text-align: center;">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">April 2026</td>
+      <td style="padding: 10px;">
+        <strong>[new-year-new-me](https://github.com/Najmul-Huda70/new-year-new-me)</strong><br>
+        <small>Comprehensive LMS with role-based dashboards for Admins and Teachers.</small>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">January 2026</td>
+      <td style="padding: 10px;">
+        <strong>[Portfolio](https://najmul-huda70.github.io/Portfolio/)</strong><br>
+        <small>Built a structured web interface focusing on <b>Semantic HTML5</b> and <b>Custom CSS</b>. Specialized in implementing complex layouts using Flexbox and Grid, ensuring pixel-perfect design accuracy and clean code architecture.</small>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
