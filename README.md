@@ -19,8 +19,7 @@
 
 <p align="center"><code>📅 Apr 2026</code></p>
 <h4 align="center">🎓 Learning Management System (LMS)</h4>
-<p><b>Problem:</b> Local students had no centralized platform for course materials, reference books, and lecture notes — everything scattered across Facebook groups and Google Drive links.</p>
-<p><b>Solution:</b> Built a full-stack academic hub using Next.js, TypeScript, Express, and PostgreSQL — giving students one place to browse courses, download reference books, and access organized lecture notes.</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" />
@@ -36,8 +35,7 @@
 
 <p align="center"><code>📅 Mar 2026</code></p>
 <h4 align="center">🔍 GitHub Issues Tracker</h4>
-<p><b>Problem:</b> Manually checking GitHub project issues across repos was slow and lacked a quick way to filter by status.</p>
-<p><b>Solution:</b> Built a lightweight tool using GitHub APIs to fetch, track, and manage issues with real-time Open/Closed filtering.</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
