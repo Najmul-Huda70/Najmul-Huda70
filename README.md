@@ -15,10 +15,11 @@
 
 <br/>
 
-<h3 align="center">💼 Projects</h3>
+<h1 align="center">Projects</h1>
 
 <p align="center"><code>📅 Apr 2026</code></p>
-<h4 align="center">🎓 Learning Management System (LMS)</h4>
+
+<h3 align="center">Learning Management System (LMS)</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
@@ -34,7 +35,8 @@
 <br/>
 
 <p align="center"><code>📅 Mar 2026</code></p>
-<h4 align="center">🔍 GitHub Issues Tracker</h4>
+
+<h3 align="center">GitHub Issues Tracker</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26" />
@@ -48,7 +50,7 @@
 
 <br/>
 
-<h3 align="center">🚀 My CP Journey</h3>
+<h1 align="center">My CP Journey</h1>
 
 - **2023** — 🌱 Started competitive programming — first steps into Codeforces & basic problem solving
 - **2024** — 📈 Crossed 300+ solved problems · Began consistent participation in Div 2/3 contests
@@ -57,7 +59,7 @@
 
 <br/>
 
-<h3 align="center">About Me</h3>
+<h1 align="center">About Me</h1>
 
 - 🎓 **Education:** CSE 3rd Year · Competitive Programmer
 - 💡 **Solved:** 700+ Problems (Codeforces, CodeChef, LeetCode)
