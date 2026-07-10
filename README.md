@@ -16,7 +16,7 @@
 </p>
 <br/>
 <p align="center">
-  <img src="https://img.shields.io/badge/LATEST_UPDATE-Learning_Management_System_(Apr_2026)-161b22?style=for-the-badge&labelColor=0d1117&color=161b22" />
+  <img src="https://img.shields.io/badge/Working On-Learning_Management_System_(Apr_2026)-161b22?style=for-the-badge&labelColor=0d1117&color=161b22" />
 </p>
 <h1 align="center">Skills & Tech </h1>
 <p align="center">
