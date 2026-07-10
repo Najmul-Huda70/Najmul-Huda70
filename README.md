@@ -29,7 +29,7 @@
   <a href="https://najmul-huda70.github.io/GitHub-Issues-Tracker/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
   <a href="https://github.com/Najmul-Huda70/GitHub-Issues-Tracker"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-<p align="center"><code>📅 Apr 2026</code></p>
+<p align="center"><code>📅 July 2026</code></p>
 <h3 align="center">Learning Management System (LMS)</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
@@ -46,7 +46,7 @@
 <p align="center">
   <code>📅 Jun 2026</code>
 </p>
-<h3 align="center">Learning Management System (LMS)</h3>
+<h3 align="center">Aura Canvas – Online Art Marketplace</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -57,9 +57,13 @@
   <img src="https://img.shields.io/badge/Google_Auth-000000?style=flat-square&logo=google&logoColor=4285F4" />
 </p>
 <p align="center">
-  <code>📅 Jun 2026</code>
+  <a href="https://aura-canvas-client.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" /></a>
+  <a href="https://github.com/Najmul-Huda70/aura-canvas-client"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-<h3 align="center">Learning Management System (LMS)</h3>
+<p align="center">
+  <code>📅 May-Jun 2026</code>
+</p>
+<h3 align="center">MediQueue - Advanced Tutor & Medical Learning Management Platform</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -71,13 +75,13 @@
 </p>
 
 <p align="center">
-  <a href="https://najmul-huda70.github.io/GitHub-Issues-Tracker/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-  <a href="https://github.com/Najmul-Huda70/GitHub-Issues-Tracker"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://medi-client-najmul.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://github.com/Najmul-Huda70/MediQueue-client"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <br/>
 
-<p align="center"><code>📅 Mar 2026</code></p>
+<p align="center"><code>📅 May 2026</code></p>
 <h3 align="center">GitHub Issues Tracker</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26" />
