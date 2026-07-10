@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Najmul Huda</h1>
 <h3 align="center">A passionate Full Stack Web Developer From Bangladesh</h3>
 
-<p align="left"> <img src="https://tinyurl.com/3f8jvycv" /> </p>
+<p align="left"> <img src="https://tinyurl.com/8rtjjd5e" /> </p>
 
 - 🔭 I’m currently working on [Learning Management System](https://github.com/Najmul-Huda70/Learning-Management-System-LMS-)
 
