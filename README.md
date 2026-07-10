@@ -25,7 +25,10 @@
 
 
 <h1 align="center">Projects</h1>
-
+<p align="center">
+  <a href="https://najmul-huda70.github.io/GitHub-Issues-Tracker/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://github.com/Najmul-Huda70/GitHub-Issues-Tracker"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 <p align="center"><code>📅 Apr 2026</code></p>
 <h3 align="center">Learning Management System (LMS)</h3>
 <p align="center">
@@ -37,6 +40,39 @@
 <p align="center">
   <a href="https://resilient-sunburst-8da6d9.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" /></a>
   <a href="https://github.com/Najmul-Huda70/Learning-Management-System-LMS-"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+</br>
+
+<p align="center">
+  <code>📅 Jun 2026</code>
+</p>
+<h3 align="center">Learning Management System (LMS)</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Fetch_API-000000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Better_Auth-000000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Auth-000000?style=flat-square&logo=google&logoColor=4285F4" />
+</p>
+<p align="center">
+  <code>📅 Jun 2026</code>
+</p>
+<h3 align="center">Learning Management System (LMS)</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Fetch_API-000000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Better_Auth-000000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Auth-000000?style=flat-square&logo=google&logoColor=4285F4" />
+</p>
+
+<p align="center">
+  <a href="https://najmul-huda70.github.io/GitHub-Issues-Tracker/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://github.com/Najmul-Huda70/GitHub-Issues-Tracker"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <br/>
