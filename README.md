@@ -9,6 +9,11 @@
 <img src="./cover-banner.png" width="900"/>
 </div>
 
+<h1 align="center">About Me</h1>
+
+<p align="center">
+<b>Building the Web | Solving the Algorithms</b> </br></br> <b>CSE undergrad (3rd year)</b> & <b>Competitive Programmer</b> with <b>700+ problems solved</b> on Codeforces, CodeChef, LeetCode & more. Participated in <b>ICPC Dhaka Regional Contest-2025 (Onsite)</b> and <b>2x IUPC</b>. Learning the <b>MERN stack</b> — completed <b>Programming Hero Level-01</b> with <b>SCIC reward</b> for on-time assignment submissions.
+</p>
 <br/>
 
 <h1 align="center">Projects</h1>
