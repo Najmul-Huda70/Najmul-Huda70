@@ -52,7 +52,11 @@
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Najmul-Huda70&theme=react-dark&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true)
 
 </div>
+<div align="center">
 
+<img src="./codeforces.svg"/>
+
+</div>
 </div>
 
 <div align="center">
