@@ -15,7 +15,9 @@
 <b>Building the Web | Solving the Algorithms</b> </br></br> <b>CSE undergrad (3rd year)</b> & <b>Competitive Programmer</b> with <b>700+ problems solved</b> on Codeforces, CodeChef, LeetCode & more. Participated in <b>ICPC Dhaka Regional Contest-2025 (Onsite)</b> and <b>2x IUPC</b>. Learning the <b>MERN stack</b> — completed <b>Programming Hero Level-01</b> with <b>SCIC reward</b> for on-time assignment submissions.
 </p>
 <br/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/LATEST_UPDATE-Learning_Management_System_(Apr_2026)-161b22?style=for-the-badge&labelColor=0d1117&color=161b22" />
+</p>
 <h1 align="center">Projects</h1>
 
 <p align="center"><code>📅 Apr 2026</code></p>
