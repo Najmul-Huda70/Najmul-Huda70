@@ -25,10 +25,7 @@
 
 
 <h1 align="center">Projects</h1>
-<p align="center">
-  <a href="https://najmul-huda70.github.io/GitHub-Issues-Tracker/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-  <a href="https://github.com/Najmul-Huda70/GitHub-Issues-Tracker"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+
 <p align="center"><code>📅 July 2026</code></p>
 <h3 align="center">Learning Management System (LMS)</h3>
 <p align="center">
