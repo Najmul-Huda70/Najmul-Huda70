@@ -1,0 +1,38 @@
+<svg viewBox="0 0 1584 396" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&amp;display=swap');
+      .name-script {
+        font-family: "Lovers Quarrel", "Lora", cursive, serif;
+        font-weight: 400;
+        font-style: italic;
+      }
+    </style>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#101418"/>
+      <stop offset="100%" stop-color="#1B2028"/>
+    </linearGradient>
+  </defs>
+
+  <!-- base -->
+  <rect width="1584" height="396" fill="url(#bg)"/>
+
+  <!-- large faint monogram, right side, purely decorative -->
+  <text x="1560" y="360" font-family="Georgia, 'Times New Roman', serif" font-size="300" font-weight="700"
+        fill="#FFFFFF" opacity="0.035" text-anchor="end">NH</text>
+
+  <!-- ============ CENTERED IDENTITY BLOCK ============
+      Simple, minimal layout: name + thin rule + contact only. -->
+  <text x="792" y="185" text-anchor="middle" class="name-script"
+        font-size="110" fill="#FFFFFF">Najmul Huda</text>
+
+  <rect x="542" y="215" width="500" height="2" fill="#F5A524"/>
+
+  <!-- contact row, centered below the name -->
+  <g font-family="Arial, sans-serif" font-size="19" fill="#9FB4CE" text-anchor="middle">
+    <text x="792" y="256">
+      <tspan fill="#F5A524">✉</tspan>  contact.najmulhuda@gmail.com<tspan fill="#3A6FA8">    |    </tspan><tspan fill="#F5A524">☎</tspan>  +880 1888 376370
+    </text>
+  </g>
+
+</svg>
