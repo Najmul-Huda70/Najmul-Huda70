@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Najmul Huda</h1>
 <h3 align="center">A passionate Full Stack Web Developer From Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=najmul-huda70&label=Profile%20views&color=0e75b6&style=flat" alt="najmul-huda70" /> </p>
+<p align="left"> <img src="file:///home/bit-riser/Pictures/Screenshots/Screenshot%20from%202026-07-10%2007-48-33.png" /> </p>
 
 - 🔭 I’m currently working on [Learning Management System](https://github.com/Najmul-Huda70/Learning-Management-System-LMS-)
 
