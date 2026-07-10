@@ -42,58 +42,6 @@
 
 <br/>
 
-<h1 align="center">My CP Journey</h1>
-
-<p align="center"><code>📅 2023</code></p>
-<h3 align="center">🌱 Getting Started</h3>
-<p align="center">Started competitive programming — first steps into Codeforces & basic problem solving</p>
-
-<br/>
-
-<p align="center"><code>📅 2024</code></p>
-<h3 align="center">📈 Building Momentum</h3>
-<p align="center">Crossed 300+ solved problems · Began consistent participation in Div 2/3 contests</p>
-
-<br/>
-
-<p align="center"><code>📅 2025</code></p>
-<h3 align="center">🏆 ICPC Regional</h3>
-<p align="center">Qualified & competed at <b>ICPC Dhaka Regional 2025 (Onsite)</b> · 1st IUPC participation</p>
-
-<br/>
-
-<p align="center"><code>📅 2026</code></p>
-<h3 align="center">💻 700+ Milestone</h3>
-<p align="center">700+ problems solved across CF, CodeChef, LeetCode · 2nd IUPC · Shifted focus to full-stack dev (MERN) alongside CP</p>
-
-<br/>
-
-<h1 align="center">About Me</h1>
-
-<h3 align="center">🎓 Education</h3>
-<p align="center">CSE 3rd Year · Competitive Programmer</p>
-
-<br/>
-
-<h3 align="center">💡 Solved</h3>
-<p align="center">700+ Problems (Codeforces, CodeChef, LeetCode)</p>
-
-<br/>
-
-<h3 align="center">🏆 ICPC</h3>
-<p align="center">Dhaka Regional 2025 (Onsite) · 2x IUPC Participant</p>
-
-<br/>
-
-<h3 align="center">🚧 Building </h3>
-<p align="center">Learning Management System</p>
-
-<br/>
-
-<h3 align="center">📚 Learning</h3>
-<p align="center">MERN Stack — Programming Hero Level-01, SCIC Reward Course Running</p>
-
-<br/>
 
 <div align="center">
 
