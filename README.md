@@ -1,6 +1,6 @@
 <div align="center">
 
-
+<img src="./assets/najmul_huda.svg" alt="Najmul Huda" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Najmul+Huda;Full+Stack+Web+Developer;Competitive+Programmer;Compiling+ideas+into+code..." alt="Typing SVG" />
 
