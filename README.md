@@ -4,8 +4,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Najmul+Huda;Full+Stack+Web+Developer;Competitive+Programmer;Compiling+ideas+into+code..." alt="Typing SVG" />
-
 <p>
   <a href="https://www.linkedin.com/in/najmul-huda-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/bit_riser"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
@@ -17,7 +15,13 @@
 
 </td></tr>
 
-<tr><td><br/></td></tr>
+<tr><td>
+  
+  <div align='center'>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Najmul+Huda;Full+Stack+Web+Developer;Competitive+Programmer;Compiling+ideas+into+code..." alt="Typing SVG" />
+  </div>
+
+</td></tr>
 
 <tr><td>
 <h3 align="center">💼 Projects</h3>
