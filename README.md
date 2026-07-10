@@ -81,9 +81,9 @@
 <p align="center"><code>📅 May 2026</code></p>
 <h3 align="center">My Portfolio</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Fetch_API-000000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer Motion-000000?style=flat-square&logoColor=white" />
 </p>
 <p align="center">
   <a href="https://najmul-huda.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
