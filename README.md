@@ -85,13 +85,13 @@
 
 <br/>
 
-<h3 align="center">🚧 Building</h3>
+<h3 align="center">🚧 Building </h3>
 <p align="center">Learning Management System</p>
 
 <br/>
 
 <h3 align="center">📚 Learning</h3>
-<p align="center">MERN Stack — Programming Hero Level-01, SCIC Awarded</p>
+<p align="center">MERN Stack — Programming Hero Level-01, SCIC Reward Course Running</p>
 
 <br/>
 
@@ -105,6 +105,6 @@
 
 <div align="center">
 
-<sub>✉ contact.najmulhuda@gmail.com &nbsp;|&nbsp; ☎ +880 1888 376370</sub>
+<sub>[portfolio](https://najmul-huda.vercel.app/) ✉ contact.najmulhuda@gmail.com &nbsp;|&nbsp; ☎ +880 1888 376370</sub>
 
 </div>
