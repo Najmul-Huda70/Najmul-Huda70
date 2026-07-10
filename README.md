@@ -1,84 +1,51 @@
 <div align="center">
 
-<img src="./assets/najmul_huda.svg" alt="Najmul Huda" width="100%" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Najmul+Huda;Full+Stack+Web+Developer;Competitive+Programmer;Compiling+ideas+into+code..." alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Najmul-Huda70&color=39ff14&style=flat-square&label=visitors)
+<p>
+  <a href="https://www.linkedin.com/in/najmul-huda-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/bit_riser"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="mailto:contact.najmulhuda@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://najmul-huda.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+</p>
 
 </div>
 
 <br/>
 
-```bash
-> cat about.txt
-```
+<div align="center">
 
-```
-CSE undergrad (3rd year) | Competitive Programmer
-700+ problems solved — Codeforces, CodeChef, LeetCode
-ICPC Dhaka Regional 2025 (Onsite) | 2x IUPC participant
-Currently building: Learning Management System
-Learning: MERN Stack (Programming Hero Level-01, SCIC awarded)
-```
+### About Me
 
-```bash
-> ls links/
-```
+</div>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/najmul-huda-/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=000000" /></a>
-  <a href="https://codeforces.com/profile/bit_riser"><img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=39FF14&labelColor=000000" /></a>
-  <a href="mailto:contact.najmulhuda@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=000000" /></a>
-  <a href="https://najmul-huda.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=000000" /></a>
-</p>
+<div align="center">
 
-**ICPC ID:** [E20K3SWR4FXW](https://icpc.global/ICPCID/E20K3SWR4FXW) · **Phone:** +880 1888 376370
+| | |
+|:---:|:---|
+| **Education** | CSE 3rd Year · Competitive Programmer |
+| **Solved** | 700+ Problems (Codeforces, CodeChef, LeetCode) |
+| **ICPC** | Dhaka Regional 2025 (Onsite) · 2x IUPC Participant |
+| **Building** | Learning Management System |
+| **Learning** | MERN Stack — Programming Hero Level-01, SCIC Awarded |
 
----
+</div>
 
-```bash
-> ls skills/
-```
+<br/>
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="38" height="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="38" height="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" height="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38" height="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="38" height="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="38" height="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="38" height="38"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="38" height="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="38" height="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="38" height="38"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="38" height="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="38" height="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="38" height="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="38" height="38"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="38" height="38"/>
-</p>
+<div align="center">
 
----
+**🆔 ICPC ID:** [E20K3SWR4FXW](https://icpc.global/ICPCID/E20K3SWR4FXW) &nbsp;&nbsp; 
 
-```bash
-> git log --stats
-```
+</div>
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Najmul-Huda70&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&border_color=39ff14" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najmul-Huda70&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&border_color=39ff14" />
-</p>
+<br/>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Najmul-Huda70&hide_border=true&background=0d1117&stroke=39ff14&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=c9d1d9&dates=8b949e" />
-</p>
+<div align="center">
 
----
+### Projects
 
-```bash
-> ls projects/
-```
+</div>
 
 <table width="100%">
   <thead>
@@ -126,13 +93,9 @@ Learning: MERN Stack (Programming Hero Level-01, SCIC awarded)
   </tbody>
 </table>
 
----
 
 <div align="center">
 
-```bash
-> echo "Thanks for stopping by!"
-```
 
 <sub>✉ contact.najmulhuda@gmail.com &nbsp;|&nbsp; ☎ +880 1888 376370</sub>
 
