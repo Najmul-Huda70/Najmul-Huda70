@@ -1,7 +1,7 @@
 <div align="center">
 <p>
   <a href="https://www.linkedin.com/in/najmul-huda-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/bit_riser"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <!-- <a href="https://codeforces.com/profile/bit_riser"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a> -->
   <a href="mailto:contact.najmulhuda@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://najmul-huda-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
