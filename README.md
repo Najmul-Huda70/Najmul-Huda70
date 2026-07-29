@@ -5,14 +5,14 @@
   <a href="mailto:contact.najmulhuda@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://najmul-huda-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=MERN+Stack+Web+Developer;Competitive+Programmer;Compiling+ideas+into+code..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=MERN+Stack+Web+Developer;Problem+Solver;Compiling+ideas+into+code..." alt="Typing SVG" />
 <img src="./cover-banner.png" width="900"/>
 </div>
 
 <h1 align="center">About Me</h1>
 
 <p align="center">
-<b>Building the Web | Solving the Algorithms</b> </br></br> <b>CSE undergrad (3rd year)</b> & <b>Competitive Programmer</b> with <b>700+ problems solved</b> on Codeforces, CodeChef, LeetCode & more. Participated in <b>ICPC Dhaka Regional Contest-2025 (Onsite)</b> and <b>3x IUPC</b>. Learning the <b>MERN stack</b> — completed <b>Programming Hero Level-01</b> with <b>SCIC reward</b> for on-time assignment submissions.
+<b>Building the Web | Solving the Algorithms</b> </br></br> <b>CSE undergrad (3rd year)</b> & Learning the <b>MERN stack</b> — completed <b>Programming Hero Level-01</b> with <b>SCIC reward</b> for on-time assignment submissions. <b>700+ problems solved</b> on Codeforces, CodeChef, LeetCode & more. Participated in <b>ICPC Dhaka Regional Contest-2025 (Onsite)</b> and <b>3x IUPC</b>.
 </p>
 <br/>
 <p align="center">
