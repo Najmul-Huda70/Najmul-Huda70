@@ -16,7 +16,7 @@
 </p>
 <br/>
 <p align="center">
-  <img src="https://img.shields.io/badge/Working On-Learning_Management_System_(Apr_2026)-161b22?style=for-the-badge&labelColor=0d1117&color=161b22" />
+  <img src="https://img.shields.io/badge/Working On-Learning_Management_System-161b22?style=for-the-badge&labelColor=0d1117&color=161b22" />
 </p>
 <h1 align="center">Skills & Tech </h1>
 <p align="center">
@@ -27,16 +27,17 @@
 <h1 align="center">Projects</h1>
 
 <p align="center"><code>📅 July 2026</code></p>
-<h3 align="center">Learning Management System (LMS)</h3>
+<h3 align="center">Netrokona University Computer Club</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" />
+   <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" />
+  <!-- <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" /> -->
 </p>
 <p align="center">
-  <a href="https://resilient-sunburst-8da6d9.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" /></a>
-  <a href="https://github.com/Najmul-Huda70/Learning-Management-System-LMS-"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://neucc.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" /></a>
+  <a href="https://github.com/Najmul-Huda70/neucc"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 </br>
 
@@ -78,8 +79,8 @@
 
 <br/>
 
-<p align="center"><code>📅 May 2026</code></p>
-<h3 align="center">My Portfolio</h3>
+<!-- <p align="center"><code>📅 May 2026</code></p>
+<h3 align="center">Portfolio</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
@@ -90,7 +91,7 @@
   <a href="https://github.com/Najmul-Huda70/my-portfolio"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<br/>
+<br/> -->
 <div align="center">
 <div align="center">
 
