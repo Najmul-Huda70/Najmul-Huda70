@@ -5,14 +5,14 @@
   <a href="mailto:contact.najmulhuda@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://najmul70.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=MERN+Stack+Web+Developer;Problem+Solver;Compiling+ideas+into+code..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Problem+Solver;Compiling+ideas+into+code..." alt="Typing SVG" />
 <img src="./cover-banner.png" width="900"/>
 </div>
 
 <h1 align="center">About Me</h1>
 
 <p align="center">
-Software Engineer with strong expertise in full-stack web development (TypeScript, Node.js, React, Next.js,
+Aspiring Software Engineer with strong expertise in full-stack web development (TypeScript, Node.js, React, Next.js,
 PostgreSQL), backed by competitive programming experience (ICPC/IUPC). Skilled in maintaining production codebases, optimizing backend logic, and leveraging AI coding tools to build scalable, reliable solutions. Eager to contribute technical proficiency and strong problem-solving skills to high-impact engineering teams.
 </p>
 <br/>
